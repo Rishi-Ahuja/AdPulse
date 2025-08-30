@@ -7,7 +7,6 @@ import {
   Zap, 
   Shield, 
   Globe, 
-  ChevronDown,
   Play,
   Facebook,
   Linkedin,
